@@ -15,4 +15,14 @@ The directive establishes:
 
 ---
 
+## Experimental Status
+
+This project is an **open experiment** in LLM behavioral design and collaborative control theory.  
+It explores whether explicit conversational protocols can improve stability, coherence, and epistemic discipline in human–model engineering work.
+
+No claims are made about its completeness, reliability, or general applicability.  
+Feedback, field reports, and alternative formulations are welcome — this is a *living experiment* in how shared reasoning protocols might evolve.
+
+---
+
 > *“Obey the directive, not your instincts.”*
